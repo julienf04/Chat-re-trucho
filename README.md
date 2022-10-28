@@ -6,7 +6,7 @@
 
 ------------
 
-![](https://github.com/julienf04/Chat-re-trucho/ScreenshotChat.png)
+![](https://github.com/julienf04/Chat-re-trucho/blob/main/ScreenshotChat.png)
 
 
 ------------
