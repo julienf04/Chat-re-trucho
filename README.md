@@ -4,7 +4,12 @@
 
 ![](https://github.com/julienf04/Chat-re-trucho/blob/main/ScreenshotLogin.png)
 
-![](https://github.com/julienf04/Chat-re-trucho/blob/main/ScreenshotChat.png)
+------------
+
+![](https://github.com/julienf04/Chat-re-trucho/ScreenshotChat.png)
+
+
+------------
 
 
 ## How to install Chat re trucho
