@@ -1,0 +1,8 @@
+C:\Users\julie\C# Proyetos\Chat re trucho GitHub\Chat re trucho\Chat re trucho Serverside\bin\Debug\Chat re trucho Serverside.dll
+C:\Users\julie\C# Proyetos\Chat re trucho GitHub\Chat re trucho\Chat re trucho Serverside\bin\Debug\Chat re trucho Serverside.pdb
+C:\Users\julie\C# Proyetos\Chat re trucho GitHub\Chat re trucho\Chat re trucho Serverside\bin\Debug\Player.IO GameLibrary.dll
+C:\Users\julie\C# Proyetos\Chat re trucho GitHub\Chat re trucho\Chat re trucho Serverside\obj\Debug\Chat re trucho Serverside.csproj.AssemblyReference.cache
+C:\Users\julie\C# Proyetos\Chat re trucho GitHub\Chat re trucho\Chat re trucho Serverside\obj\Debug\Chat re trucho Serverside.csproj.CoreCompileInputs.cache
+C:\Users\julie\C# Proyetos\Chat re trucho GitHub\Chat re trucho\Chat re trucho Serverside\obj\Debug\Chat re trucho Serverside.csproj.CopyComplete
+C:\Users\julie\C# Proyetos\Chat re trucho GitHub\Chat re trucho\Chat re trucho Serverside\obj\Debug\Chat re trucho Serverside.dll
+C:\Users\julie\C# Proyetos\Chat re trucho GitHub\Chat re trucho\Chat re trucho Serverside\obj\Debug\Chat re trucho Serverside.pdb

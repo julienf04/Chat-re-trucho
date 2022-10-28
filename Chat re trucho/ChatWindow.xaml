@@ -1,0 +1,82 @@
+﻿<Window x:Class="Chat_re_trucho.ChatWindow"
+		xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+		xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+		xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+		xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+		xmlns:local="clr-namespace:Chat_re_trucho"
+		mc:Ignorable="d"
+		Title="Chat re trucho"
+		Height="600"
+		Width="950"
+		Icon="Icons/WindowIcon.png">
+	<Grid Background="#FF262626">
+		<ScrollViewer x:Name="scrollChatPanel"
+					  Margin="2,0,2,80"
+					  Background="#FF343434"
+					  Foreground="#FFF2FF93">
+			<WrapPanel x:Name="chatPanel"
+					   Margin="5,5,5,5"
+					   Orientation="Vertical"
+					   HorizontalAlignment="Left"
+					   VerticalAlignment="Top">
+
+
+			</WrapPanel>
+		</ScrollViewer>
+		<TextBlock Height="10"
+				   Margin="0,0,0,70"
+				   VerticalAlignment="Bottom">
+			<TextBlock.Background>
+				<LinearGradientBrush EndPoint="0.5,1"
+									 StartPoint="0.5,0">
+					<LinearGradientBrush.RelativeTransform>
+						<TransformGroup>
+							<ScaleTransform CenterY="0.5"
+											CenterX="0.5" />
+							<SkewTransform CenterX="0.5"
+										   CenterY="0.5" />
+							<RotateTransform Angle="135"
+											 CenterX="0.5"
+											 CenterY="0.5" />
+							<TranslateTransform />
+						</TransformGroup>
+					</LinearGradientBrush.RelativeTransform>
+					<GradientStop Color="#FFAF0000"
+								  Offset="0.25" />
+					<GradientStop Color="#FF6E00AF"
+								  Offset="0.75" />
+				</LinearGradientBrush>
+			</TextBlock.Background>
+		</TextBlock>
+
+		<TextBox x:Name="textBoxMessage"
+				 Margin="10,0,120,5"
+				 VerticalAlignment="Bottom"
+				 Height="59"
+				 Background="#FF343434"
+				 Foreground="#FFE6E6E6"
+				 FontSize="16"
+				 FontFamily="Comic Sans MS"
+				 Padding="5,5,5,5"
+				 TextWrapping="Wrap"
+				 KeyUp="TextBox_KeyUp"
+				 Text="">
+
+		</TextBox>
+
+		<Button Content="Send"
+				HorizontalAlignment="Right"
+				VerticalAlignment="Bottom"
+				Height="40"
+				Width="95"
+				Background="#FF40FF75"
+				FontFamily="Comic Sans MS"
+				FontSize="20"
+				FontWeight="Heavy"
+				FontStyle="Normal"
+				FontStretch="SemiCondensed"
+				Foreground="Black"
+				Margin="0,0,10,14"
+				Click="Button_Click" />
+	</Grid>
+</Window>

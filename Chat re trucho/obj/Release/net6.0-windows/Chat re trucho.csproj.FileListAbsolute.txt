@@ -1,0 +1,26 @@
+C:\Users\julie\C# Proyetos\Chat re trucho GitHub\Chat re trucho\Chat re trucho\bin\Release\net6.0-windows\Chat re trucho.exe
+C:\Users\julie\C# Proyetos\Chat re trucho GitHub\Chat re trucho\Chat re trucho\bin\Release\net6.0-windows\Chat re trucho.deps.json
+C:\Users\julie\C# Proyetos\Chat re trucho GitHub\Chat re trucho\Chat re trucho\bin\Release\net6.0-windows\Chat re trucho.runtimeconfig.json
+C:\Users\julie\C# Proyetos\Chat re trucho GitHub\Chat re trucho\Chat re trucho\bin\Release\net6.0-windows\Chat re trucho.dll
+C:\Users\julie\C# Proyetos\Chat re trucho GitHub\Chat re trucho\Chat re trucho\bin\Release\net6.0-windows\Chat re trucho.pdb
+C:\Users\julie\C# Proyetos\Chat re trucho GitHub\Chat re trucho\Chat re trucho\obj\Release\net6.0-windows\Chat re trucho.csproj.AssemblyReference.cache
+C:\Users\julie\C# Proyetos\Chat re trucho GitHub\Chat re trucho\Chat re trucho\obj\Release\net6.0-windows\App.g.cs
+C:\Users\julie\C# Proyetos\Chat re trucho GitHub\Chat re trucho\Chat re trucho\obj\Release\net6.0-windows\Chat re trucho_MarkupCompile.cache
+C:\Users\julie\C# Proyetos\Chat re trucho GitHub\Chat re trucho\Chat re trucho\obj\Release\net6.0-windows\Chat re trucho_MarkupCompile.lref
+C:\Users\julie\C# Proyetos\Chat re trucho GitHub\Chat re trucho\Chat re trucho\obj\Release\net6.0-windows\Chat re trucho.g.resources
+C:\Users\julie\C# Proyetos\Chat re trucho GitHub\Chat re trucho\Chat re trucho\obj\Release\net6.0-windows\Chat re trucho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julie\C# Proyetos\Chat re trucho GitHub\Chat re trucho\Chat re trucho\obj\Release\net6.0-windows\Chat re trucho.AssemblyInfoInputs.cache
+C:\Users\julie\C# Proyetos\Chat re trucho GitHub\Chat re trucho\Chat re trucho\obj\Release\net6.0-windows\Chat re trucho.AssemblyInfo.cs
+C:\Users\julie\C# Proyetos\Chat re trucho GitHub\Chat re trucho\Chat re trucho\obj\Release\net6.0-windows\Chat re trucho.csproj.CoreCompileInputs.cache
+C:\Users\julie\C# Proyetos\Chat re trucho GitHub\Chat re trucho\Chat re trucho\obj\Release\net6.0-windows\Chat re trucho.dll
+C:\Users\julie\C# Proyetos\Chat re trucho GitHub\Chat re trucho\Chat re trucho\obj\Release\net6.0-windows\refint\Chat re trucho.dll
+C:\Users\julie\C# Proyetos\Chat re trucho GitHub\Chat re trucho\Chat re trucho\obj\Release\net6.0-windows\Chat re trucho.pdb
+C:\Users\julie\C# Proyetos\Chat re trucho GitHub\Chat re trucho\Chat re trucho\obj\Release\net6.0-windows\Chat re trucho.genruntimeconfig.cache
+C:\Users\julie\C# Proyetos\Chat re trucho GitHub\Chat re trucho\Chat re trucho\obj\Release\net6.0-windows\ref\Chat re trucho.dll
+C:\Users\julie\C# Proyetos\Chat re trucho GitHub\Chat re trucho\Chat re trucho\bin\Release\net6.0-windows\PlayerIOClient.dll
+C:\Users\julie\C# Proyetos\Chat re trucho GitHub\Chat re trucho\Chat re trucho\obj\Release\net6.0-windows\ChatWindow.g.cs
+C:\Users\julie\C# Proyetos\Chat re trucho GitHub\Chat re trucho\Chat re trucho\obj\Release\net6.0-windows\LoginWindow.g.cs
+C:\Users\julie\C# Proyetos\Chat re trucho GitHub\Chat re trucho\Chat re trucho\obj\Release\net6.0-windows\ChatWindow.baml
+C:\Users\julie\C# Proyetos\Chat re trucho GitHub\Chat re trucho\Chat re trucho\obj\Release\net6.0-windows\LoginWindow.baml
+C:\Users\julie\C# Proyetos\Chat re trucho GitHub\Chat re trucho\Chat re trucho\obj\Release\net6.0-windows\Chat re trucho.csproj.CopyComplete
+C:\Users\julie\C# Proyetos\Chat re trucho GitHub\Chat re trucho\Chat re trucho\obj\Release\net6.0-windows\Chat re trucho_Content.g.cs

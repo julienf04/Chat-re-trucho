@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Chat_re_trucho</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>Icons\PeppaPigIcon.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="LoginWindowIcon.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Icons\PeppaPigIcon.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="PlayerIOClient">
+      <HintPath>Assemblies\PlayerIOClient.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Icons\WindowIcon.png" />
+  </ItemGroup>
+
+</Project>
