@@ -2,9 +2,9 @@
 
 - **Chat re trucho** is an app where you can chat with anyone in a room
 
-![](https://github.com/julienf04/Chat-re-trucho/ScreenshotLogin.png)
+![](https://github.com/julienf04/Chat-re-trucho/blob/main/ScreenshotLogin.png)
 
-![](https://github.com/julienf04/Chat-re-trucho/ScreenshotChat.png)
+![](https://github.com/julienf04/Chat-re-trucho/blob/main/ScreenshotChat.png)
 
 
 ## How to install Chat re trucho
